@@ -39,27 +39,19 @@
   - Sample Output:
     - "Python Exercises" ends with "se"? false                                                                      
     - "Python Exercise" ends with "se"? true
- 
-## 7.Write a Java program to remove duplicate characters from a given string presents in another given string.
-
-   - Sample Output:
-    - The given string is: the quick brown fox
-    - The given mask string is: queen
-    - The new string is: 
-    - th ick brow fox
     
-##  8.  Write a Java program to get the length of a given string.
+##  7.  Write a Java program to get the length of a given string.
 
   - Sample Output:
     - The string length of 'example.com' is: 11
         
- ## 9. Write a Java program to replace a specified character with another character
+ ## 8. Write a Java program to replace a specified character with another character
  
     - Sample Output:
        - Original string: The quick brown fox jumps over the lazy dog.                                                 
        - New String: The quick brown fox jumps over the lazy fog.
   
- ## 10. Write a Java program to print after removing duplicates from a given string
+ ## 9. Write a Java program to print after removing duplicates from a given string
  
    - Sample Output:
      - The given string is: w3resource
